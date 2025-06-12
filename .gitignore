@@ -1,0 +1,4 @@
+.env
+node_modules
+middleware/ca-certificate.crt
+middleware/ca-certificate-base64.txt
