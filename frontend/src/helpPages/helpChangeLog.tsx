@@ -42,7 +42,7 @@ const HelpChangeLog = () => {
       <header className="relative bg-[#876454] text-white shadow-lg flex items-center justify-center py-6 px-4 md:px-8">
         {/* Logo (top-left) */}
         <img 
-          src="/rgf_logo.png"
+          src="/LaunchFlowLogo.png"
           alt="RGF Logo" 
           className="absolute top-2 left-4 max-w-[150px] md:max-w-[165px] h-auto hidden min-[900px]:block"
         />
